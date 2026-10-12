@@ -1,0 +1,280 @@
+Date,Store_ID,Shift,Total_Labor_Hours,Average_Hourly_Rate,Total_Labor_Cost
+2026-09-01,TX-San Antonio-01,Morning,38,15.5,589.0
+2026-09-01,TX-San Antonio-01,Evening,40,15.5,620.0
+2026-09-01,TX-San Antonio-01,Late Night,23,15.5,356.5
+2026-09-02,TX-San Antonio-01,Morning,38,15.5,589.0
+2026-09-02,TX-San Antonio-01,Evening,44,15.5,682.0
+2026-09-02,TX-San Antonio-01,Late Night,23,15.5,356.5
+2026-09-03,TX-San Antonio-01,Morning,49,15.5,759.5
+2026-09-03,TX-San Antonio-01,Evening,39,15.5,604.5
+2026-09-03,TX-San Antonio-01,Late Night,20,15.5,310.0
+2026-09-04,TX-San Antonio-01,Morning,41,15.5,635.5
+2026-09-04,TX-San Antonio-01,Evening,36,15.5,558.0
+2026-09-04,TX-San Antonio-01,Late Night,28,15.5,434.0
+2026-09-05,TX-San Antonio-01,Morning,48,15.5,744.0
+2026-09-05,TX-San Antonio-01,Evening,45,15.5,697.5
+2026-09-05,TX-San Antonio-01,Late Night,26,15.5,403.0
+2026-09-06,TX-San Antonio-01,Morning,48,15.5,744.0
+2026-09-06,TX-San Antonio-01,Evening,36,15.5,558.0
+2026-09-06,TX-San Antonio-01,Late Night,34,15.5,527.0
+2026-09-07,TX-San Antonio-01,Morning,41,15.5,635.5
+2026-09-07,TX-San Antonio-01,Evening,36,15.5,558.0
+2026-09-07,TX-San Antonio-01,Late Night,31,15.5,480.5
+2026-09-08,TX-San Antonio-01,Morning,49,15.5,759.5
+2026-09-08,TX-San Antonio-01,Evening,49,15.5,759.5
+2026-09-08,TX-San Antonio-01,Late Night,27,15.5,418.5
+2026-09-09,TX-San Antonio-01,Morning,44,15.5,682.0
+2026-09-09,TX-San Antonio-01,Evening,37,15.5,573.5
+2026-09-09,TX-San Antonio-01,Late Night,34,15.5,527.0
+2026-09-10,TX-San Antonio-01,Morning,37,15.5,573.5
+2026-09-10,TX-San Antonio-01,Evening,42,15.5,651.0
+2026-09-10,TX-San Antonio-01,Late Night,22,15.5,341.0
+2026-09-11,TX-San Antonio-01,Morning,40,15.5,620.0
+2026-09-11,TX-San Antonio-01,Evening,43,15.5,666.5
+2026-09-11,TX-San Antonio-01,Late Night,22,15.5,341.0
+2026-09-12,TX-San Antonio-01,Morning,48,15.5,744.0
+2026-09-12,TX-San Antonio-01,Evening,36,15.5,558.0
+2026-09-12,TX-San Antonio-01,Late Night,33,15.5,511.5
+2026-09-13,TX-San Antonio-01,Morning,46,15.5,713.0
+2026-09-13,TX-San Antonio-01,Evening,41,15.5,635.5
+2026-09-13,TX-San Antonio-01,Late Night,26,15.5,403.0
+2026-09-14,TX-San Antonio-01,Morning,39,15.5,604.5
+2026-09-14,TX-San Antonio-01,Evening,36,15.5,558.0
+2026-09-14,TX-San Antonio-01,Late Night,25,15.5,387.5
+2026-09-15,TX-San Antonio-01,Morning,47,15.5,728.5
+2026-09-15,TX-San Antonio-01,Evening,48,15.5,744.0
+2026-09-15,TX-San Antonio-01,Late Night,24,15.5,372.0
+2026-09-16,TX-San Antonio-01,Morning,50,15.5,775.0
+2026-09-16,TX-San Antonio-01,Evening,48,15.5,744.0
+2026-09-16,TX-San Antonio-01,Late Night,24,15.5,372.0
+2026-09-17,TX-San Antonio-01,Morning,36,15.5,558.0
+2026-09-17,TX-San Antonio-01,Evening,46,15.5,713.0
+2026-09-17,TX-San Antonio-01,Late Night,32,15.5,496.0
+2026-09-18,TX-San Antonio-01,Morning,35,15.5,542.5
+2026-09-18,TX-San Antonio-01,Evening,42,15.5,651.0
+2026-09-18,TX-San Antonio-01,Late Night,19,15.5,294.5
+2026-09-19,TX-San Antonio-01,Morning,40,15.5,620.0
+2026-09-19,TX-San Antonio-01,Evening,43,15.5,666.5
+2026-09-19,TX-San Antonio-01,Late Night,27,15.5,418.5
+2026-09-20,TX-San Antonio-01,Morning,44,15.5,682.0
+2026-09-20,TX-San Antonio-01,Evening,50,15.5,775.0
+2026-09-20,TX-San Antonio-01,Late Night,29,15.5,449.5
+2026-09-21,TX-San Antonio-01,Morning,48,15.5,744.0
+2026-09-21,TX-San Antonio-01,Evening,40,15.5,620.0
+2026-09-21,TX-San Antonio-01,Late Night,21,15.5,325.5
+2026-09-22,TX-San Antonio-01,Morning,46,15.5,713.0
+2026-09-22,TX-San Antonio-01,Evening,48,15.5,744.0
+2026-09-22,TX-San Antonio-01,Late Night,34,15.5,527.0
+2026-09-23,TX-San Antonio-01,Morning,46,15.5,713.0
+2026-09-23,TX-San Antonio-01,Evening,36,15.5,558.0
+2026-09-23,TX-San Antonio-01,Late Night,25,15.5,387.5
+2026-09-24,TX-San Antonio-01,Morning,50,15.5,775.0
+2026-09-24,TX-San Antonio-01,Evening,42,15.5,651.0
+2026-09-24,TX-San Antonio-01,Late Night,34,15.5,527.0
+2026-09-25,TX-San Antonio-01,Morning,47,15.5,728.5
+2026-09-25,TX-San Antonio-01,Evening,43,15.5,666.5
+2026-09-25,TX-San Antonio-01,Late Night,33,15.5,511.5
+2026-09-26,TX-San Antonio-01,Morning,49,15.5,759.5
+2026-09-26,TX-San Antonio-01,Evening,50,15.5,775.0
+2026-09-26,TX-San Antonio-01,Late Night,22,15.5,341.0
+2026-09-27,TX-San Antonio-01,Morning,42,15.5,651.0
+2026-09-27,TX-San Antonio-01,Evening,37,15.5,573.5
+2026-09-27,TX-San Antonio-01,Late Night,28,15.5,434.0
+2026-09-28,TX-San Antonio-01,Morning,49,15.5,759.5
+2026-09-28,TX-San Antonio-01,Evening,35,15.5,542.5
+2026-09-28,TX-San Antonio-01,Late Night,29,15.5,449.5
+2026-09-29,TX-San Antonio-01,Morning,37,15.5,573.5
+2026-09-29,TX-San Antonio-01,Evening,50,15.5,775.0
+2026-09-29,TX-San Antonio-01,Late Night,28,15.5,434.0
+2026-09-30,TX-San Antonio-01,Morning,41,15.5,635.5
+2026-09-30,TX-San Antonio-01,Evening,47,15.5,728.5
+2026-09-30,TX-San Antonio-01,Late Night,27,15.5,418.5
+2026-10-01,TX-San Antonio-01,Morning,49,15.5,759.5
+2026-10-01,TX-San Antonio-01,Evening,45,15.5,697.5
+2026-10-01,TX-San Antonio-01,Late Night,32,15.5,496.0
+2026-09-01,TX-Houston-02,Morning,47,15.5,728.5
+2026-09-01,TX-Houston-02,Evening,42,15.5,651.0
+2026-09-01,TX-Houston-02,Late Night,30,15.5,465.0
+2026-09-02,TX-Houston-02,Morning,47,15.5,728.5
+2026-09-02,TX-Houston-02,Evening,44,15.5,682.0
+2026-09-02,TX-Houston-02,Late Night,26,15.5,403.0
+2026-09-03,TX-Houston-02,Morning,35,15.5,542.5
+2026-09-03,TX-Houston-02,Evening,41,15.5,635.5
+2026-09-03,TX-Houston-02,Late Night,26,15.5,403.0
+2026-09-04,TX-Houston-02,Morning,37,15.5,573.5
+2026-09-04,TX-Houston-02,Evening,42,15.5,651.0
+2026-09-04,TX-Houston-02,Late Night,23,15.5,356.5
+2026-09-05,TX-Houston-02,Morning,44,15.5,682.0
+2026-09-05,TX-Houston-02,Evening,48,15.5,744.0
+2026-09-05,TX-Houston-02,Late Night,27,15.5,418.5
+2026-09-06,TX-Houston-02,Morning,43,15.5,666.5
+2026-09-06,TX-Houston-02,Evening,49,15.5,759.5
+2026-09-06,TX-Houston-02,Late Night,27,15.5,418.5
+2026-09-07,TX-Houston-02,Morning,48,15.5,744.0
+2026-09-07,TX-Houston-02,Evening,44,15.5,682.0
+2026-09-07,TX-Houston-02,Late Night,26,15.5,403.0
+2026-09-08,TX-Houston-02,Morning,38,15.5,589.0
+2026-09-08,TX-Houston-02,Evening,40,15.5,620.0
+2026-09-08,TX-Houston-02,Late Night,20,15.5,310.0
+2026-09-09,TX-Houston-02,Morning,46,15.5,713.0
+2026-09-09,TX-Houston-02,Evening,42,15.5,651.0
+2026-09-09,TX-Houston-02,Late Night,22,15.5,341.0
+2026-09-10,TX-Houston-02,Morning,43,15.5,666.5
+2026-09-10,TX-Houston-02,Evening,47,15.5,728.5
+2026-09-10,TX-Houston-02,Late Night,23,15.5,356.5
+2026-09-11,TX-Houston-02,Morning,46,15.5,713.0
+2026-09-11,TX-Houston-02,Evening,41,15.5,635.5
+2026-09-11,TX-Houston-02,Late Night,27,15.5,418.5
+2026-09-12,TX-Houston-02,Morning,43,15.5,666.5
+2026-09-12,TX-Houston-02,Evening,50,15.5,775.0
+2026-09-12,TX-Houston-02,Late Night,27,15.5,418.5
+2026-09-13,TX-Houston-02,Morning,42,15.5,651.0
+2026-09-13,TX-Houston-02,Evening,46,15.5,713.0
+2026-09-13,TX-Houston-02,Late Night,25,15.5,387.5
+2026-09-14,TX-Houston-02,Morning,40,15.5,620.0
+2026-09-14,TX-Houston-02,Evening,45,15.5,697.5
+2026-09-14,TX-Houston-02,Late Night,24,15.5,372.0
+2026-09-15,TX-Houston-02,Morning,39,15.5,604.5
+2026-09-15,TX-Houston-02,Evening,39,15.5,604.5
+2026-09-15,TX-Houston-02,Late Night,20,15.5,310.0
+2026-09-16,TX-Houston-02,Morning,35,15.5,542.5
+2026-09-16,TX-Houston-02,Evening,49,15.5,759.5
+2026-09-16,TX-Houston-02,Late Night,27,15.5,418.5
+2026-09-17,TX-Houston-02,Morning,40,15.5,620.0
+2026-09-17,TX-Houston-02,Evening,37,15.5,573.5
+2026-09-17,TX-Houston-02,Late Night,28,15.5,434.0
+2026-09-18,TX-Houston-02,Morning,42,15.5,651.0
+2026-09-18,TX-Houston-02,Evening,48,15.5,744.0
+2026-09-18,TX-Houston-02,Late Night,24,15.5,372.0
+2026-09-19,TX-Houston-02,Morning,42,15.5,651.0
+2026-09-19,TX-Houston-02,Evening,37,15.5,573.5
+2026-09-19,TX-Houston-02,Late Night,30,15.5,465.0
+2026-09-20,TX-Houston-02,Morning,41,15.5,635.5
+2026-09-20,TX-Houston-02,Evening,44,15.5,682.0
+2026-09-20,TX-Houston-02,Late Night,26,15.5,403.0
+2026-09-21,TX-Houston-02,Morning,39,15.5,604.5
+2026-09-21,TX-Houston-02,Evening,39,15.5,604.5
+2026-09-21,TX-Houston-02,Late Night,24,15.5,372.0
+2026-09-22,TX-Houston-02,Morning,43,15.5,666.5
+2026-09-22,TX-Houston-02,Evening,42,15.5,651.0
+2026-09-22,TX-Houston-02,Late Night,20,15.5,310.0
+2026-09-23,TX-Houston-02,Morning,42,15.5,651.0
+2026-09-23,TX-Houston-02,Evening,38,15.5,589.0
+2026-09-23,TX-Houston-02,Late Night,26,15.5,403.0
+2026-09-24,TX-Houston-02,Morning,47,15.5,728.5
+2026-09-24,TX-Houston-02,Evening,49,15.5,759.5
+2026-09-24,TX-Houston-02,Late Night,25,15.5,387.5
+2026-09-25,TX-Houston-02,Morning,37,15.5,573.5
+2026-09-25,TX-Houston-02,Evening,47,15.5,728.5
+2026-09-25,TX-Houston-02,Late Night,30,15.5,465.0
+2026-09-26,TX-Houston-02,Morning,36,15.5,558.0
+2026-09-26,TX-Houston-02,Evening,44,15.5,682.0
+2026-09-26,TX-Houston-02,Late Night,19,15.5,294.5
+2026-09-27,TX-Houston-02,Morning,39,15.5,604.5
+2026-09-27,TX-Houston-02,Evening,40,15.5,620.0
+2026-09-27,TX-Houston-02,Late Night,26,15.5,403.0
+2026-09-28,TX-Houston-02,Morning,45,15.5,697.5
+2026-09-28,TX-Houston-02,Evening,45,15.5,697.5
+2026-09-28,TX-Houston-02,Late Night,20,15.5,310.0
+2026-09-29,TX-Houston-02,Morning,43,15.5,666.5
+2026-09-29,TX-Houston-02,Evening,50,15.5,775.0
+2026-09-29,TX-Houston-02,Late Night,31,15.5,480.5
+2026-09-30,TX-Houston-02,Morning,48,15.5,744.0
+2026-09-30,TX-Houston-02,Evening,46,15.5,713.0
+2026-09-30,TX-Houston-02,Late Night,19,15.5,294.5
+2026-10-01,TX-Houston-02,Morning,44,15.5,682.0
+2026-10-01,TX-Houston-02,Evening,44,15.5,682.0
+2026-10-01,TX-Houston-02,Late Night,21,15.5,325.5
+2026-09-01,TX-Austin-03,Morning,35,15.5,542.5
+2026-09-01,TX-Austin-03,Evening,49,15.5,759.5
+2026-09-01,TX-Austin-03,Late Night,34,15.5,527.0
+2026-09-02,TX-Austin-03,Morning,48,15.5,744.0
+2026-09-02,TX-Austin-03,Evening,43,15.5,666.5
+2026-09-02,TX-Austin-03,Late Night,25,15.5,387.5
+2026-09-03,TX-Austin-03,Morning,42,15.5,651.0
+2026-09-03,TX-Austin-03,Evening,37,15.5,573.5
+2026-09-03,TX-Austin-03,Late Night,34,15.5,527.0
+2026-09-04,TX-Austin-03,Morning,48,15.5,744.0
+2026-09-04,TX-Austin-03,Evening,43,15.5,666.5
+2026-09-04,TX-Austin-03,Late Night,31,15.5,480.5
+2026-09-05,TX-Austin-03,Morning,43,15.5,666.5
+2026-09-05,TX-Austin-03,Evening,42,15.5,651.0
+2026-09-05,TX-Austin-03,Late Night,26,15.5,403.0
+2026-09-06,TX-Austin-03,Morning,39,15.5,604.5
+2026-09-06,TX-Austin-03,Evening,48,15.5,744.0
+2026-09-06,TX-Austin-03,Late Night,22,15.5,341.0
+2026-09-07,TX-Austin-03,Morning,37,15.5,573.5
+2026-09-07,TX-Austin-03,Evening,48,15.5,744.0
+2026-09-07,TX-Austin-03,Late Night,20,15.5,310.0
+2026-09-08,TX-Austin-03,Morning,50,15.5,775.0
+2026-09-08,TX-Austin-03,Evening,39,15.5,604.5
+2026-09-08,TX-Austin-03,Late Night,24,15.5,372.0
+2026-09-09,TX-Austin-03,Morning,40,15.5,620.0
+2026-09-09,TX-Austin-03,Evening,40,15.5,620.0
+2026-09-09,TX-Austin-03,Late Night,22,15.5,341.0
+2026-09-10,TX-Austin-03,Morning,42,15.5,651.0
+2026-09-10,TX-Austin-03,Evening,47,15.5,728.5
+2026-09-10,TX-Austin-03,Late Night,34,15.5,527.0
+2026-09-11,TX-Austin-03,Morning,40,15.5,620.0
+2026-09-11,TX-Austin-03,Evening,47,15.5,728.5
+2026-09-11,TX-Austin-03,Late Night,28,15.5,434.0
+2026-09-12,TX-Austin-03,Morning,42,15.5,651.0
+2026-09-12,TX-Austin-03,Evening,50,15.5,775.0
+2026-09-12,TX-Austin-03,Late Night,26,15.5,403.0
+2026-09-13,TX-Austin-03,Morning,35,15.5,542.5
+2026-09-13,TX-Austin-03,Evening,42,15.5,651.0
+2026-09-13,TX-Austin-03,Late Night,29,15.5,449.5
+2026-09-14,TX-Austin-03,Morning,50,15.5,775.0
+2026-09-14,TX-Austin-03,Evening,45,15.5,697.5
+2026-09-14,TX-Austin-03,Late Night,32,15.5,496.0
+2026-09-15,TX-Austin-03,Morning,45,15.5,697.5
+2026-09-15,TX-Austin-03,Evening,44,15.5,682.0
+2026-09-15,TX-Austin-03,Late Night,31,15.5,480.5
+2026-09-16,TX-Austin-03,Morning,48,15.5,744.0
+2026-09-16,TX-Austin-03,Evening,50,15.5,775.0
+2026-09-16,TX-Austin-03,Late Night,20,15.5,310.0
+2026-09-17,TX-Austin-03,Morning,37,15.5,573.5
+2026-09-17,TX-Austin-03,Evening,45,15.5,697.5
+2026-09-17,TX-Austin-03,Late Night,31,15.5,480.5
+2026-09-18,TX-Austin-03,Morning,40,15.5,620.0
+2026-09-18,TX-Austin-03,Evening,36,15.5,558.0
+2026-09-18,TX-Austin-03,Late Night,23,15.5,356.5
+2026-09-19,TX-Austin-03,Morning,36,15.5,558.0
+2026-09-19,TX-Austin-03,Evening,36,15.5,558.0
+2026-09-19,TX-Austin-03,Late Night,20,15.5,310.0
+2026-09-20,TX-Austin-03,Morning,43,15.5,666.5
+2026-09-20,TX-Austin-03,Evening,42,15.5,651.0
+2026-09-20,TX-Austin-03,Late Night,25,15.5,387.5
+2026-09-21,TX-Austin-03,Morning,41,15.5,635.5
+2026-09-21,TX-Austin-03,Evening,50,15.5,775.0
+2026-09-21,TX-Austin-03,Late Night,20,15.5,310.0
+2026-09-22,TX-Austin-03,Morning,47,15.5,728.5
+2026-09-22,TX-Austin-03,Evening,46,15.5,713.0
+2026-09-22,TX-Austin-03,Late Night,30,15.5,465.0
+2026-09-23,TX-Austin-03,Morning,35,15.5,542.5
+2026-09-23,TX-Austin-03,Evening,35,15.5,542.5
+2026-09-23,TX-Austin-03,Late Night,23,15.5,356.5
+2026-09-24,TX-Austin-03,Morning,40,15.5,620.0
+2026-09-24,TX-Austin-03,Evening,46,15.5,713.0
+2026-09-24,TX-Austin-03,Late Night,29,15.5,449.5
+2026-09-25,TX-Austin-03,Morning,42,15.5,651.0
+2026-09-25,TX-Austin-03,Evening,38,15.5,589.0
+2026-09-25,TX-Austin-03,Late Night,20,15.5,310.0
+2026-09-26,TX-Austin-03,Morning,39,15.5,604.5
+2026-09-26,TX-Austin-03,Evening,48,15.5,744.0
+2026-09-26,TX-Austin-03,Late Night,26,15.5,403.0
+2026-09-27,TX-Austin-03,Morning,44,15.5,682.0
+2026-09-27,TX-Austin-03,Evening,43,15.5,666.5
+2026-09-27,TX-Austin-03,Late Night,26,15.5,403.0
+2026-09-28,TX-Austin-03,Morning,35,15.5,542.5
+2026-09-28,TX-Austin-03,Evening,44,15.5,682.0
+2026-09-28,TX-Austin-03,Late Night,20,15.5,310.0
+2026-09-29,TX-Austin-03,Morning,46,15.5,713.0
+2026-09-29,TX-Austin-03,Evening,46,15.5,713.0
+2026-09-29,TX-Austin-03,Late Night,26,15.5,403.0
+2026-09-30,TX-Austin-03,Morning,42,15.5,651.0
+2026-09-30,TX-Austin-03,Evening,40,15.5,620.0
+2026-09-30,TX-Austin-03,Late Night,23,15.5,356.5
+2026-10-01,TX-Austin-03,Morning,38,15.5,589.0
+2026-10-01,TX-Austin-03,Evening,49,15.5,759.5
+2026-10-01,TX-Austin-03,Late Night,29,15.5,449.5

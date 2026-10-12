@@ -1,0 +1,72 @@
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+import random
+
+# 1. GENERATE MENU & COGS DATA
+menu_items = {
+    'Patty Melt Meal': {'price': 9.50, 'cogs': 3.10},
+    'Honey Butter Chicken Biscuit': {'price': 4.25, 'cogs': 1.15},
+    'Whataburger Meal': {'price': 8.75, 'cogs': 2.50},
+    'Spicy Ketchup (Extra)': {'price': 0.50, 'cogs': 0.05},
+    'Dr Pepper Shake': {'price': 3.50, 'cogs': 0.85},
+    'Onion Rings': {'price': 3.25, 'cogs': 0.70}
+}
+
+menu_df = pd.DataFrame.from_dict(menu_items, orient='index').reset_index()
+menu_df.rename(columns={'index': 'Item_Name', 'price': 'Retail_Price', 'cogs': 'Unit_COGS'}, inplace=True)
+menu_df.to_csv('menu_cogs_data.csv', index=False)
+
+# 2. GENERATE TRANSACTION DATA (24/7 Operations)
+np.random.seed(42)
+num_transactions = 10000
+stores = ['TX-San Antonio-01', 'TX-Houston-02', 'TX-Austin-03']
+order_types = ['Drive-Thru', 'Dine-In', 'Curbside']
+
+# Corrected hours probability list (exactly 24 values summing to 1.0)
+hours = np.random.choice(
+    range(24), 
+    size=num_transactions, 
+    p=[0.02, 0.04, 0.05, 0.03, 0.01, 0.01, 0.03, 0.05, 0.06, 0.04, 0.03, 0.05, 
+       0.10, 0.08, 0.04, 0.03, 0.03, 0.05, 0.07, 0.06, 0.04, 0.03, 0.02, 0.03]
+)
+
+start_date = datetime(2026, 9, 1)
+dates = [start_date + timedelta(days=random.randint(0, 30)) for _ in range(num_transactions)]
+
+transactions = {
+    'Transaction_ID': range(100001, 100001 + num_transactions),
+    'Date': [d.strftime('%Y-%m-%d') for d in dates],
+    'Hour_of_Day': hours,
+    'Store_ID': np.random.choice(stores, num_transactions),
+    'Order_Type': np.random.choice(order_types, num_transactions, p=[0.65, 0.25, 0.10]),
+    'Item_Name': np.random.choice(list(menu_items.keys()), num_transactions),
+    'Quantity': np.random.choice([1, 2, 3, 4], num_transactions, p=[0.7, 0.2, 0.07, 0.03])
+}
+
+sales_df = pd.DataFrame(transactions)
+
+# Merge to get revenue per transaction
+sales_df = sales_df.merge(menu_df[['Item_Name', 'Retail_Price']], on='Item_Name')
+sales_df['Total_Revenue'] = sales_df['Quantity'] * sales_df['Retail_Price']
+sales_df.to_csv('transaction_sales_data.csv', index=False)
+
+# 3. GENERATE LABOR DATA (Grouped by Shift)
+labor_data = []
+for store in stores:
+    for d in pd.date_range(start='2026-09-01', end='2026-10-01'):
+        for shift in ['Morning', 'Evening', 'Late Night']:
+            base_hours = 40 if shift != 'Late Night' else 24
+            labor_data.append({
+                'Date': d.strftime('%Y-%m-%d'),
+                'Store_ID': store,
+                'Shift': shift,
+                'Total_Labor_Hours': base_hours + random.randint(-5, 10),
+                'Average_Hourly_Rate': 15.50
+            })
+
+labor_df = pd.DataFrame(labor_data)
+labor_df['Total_Labor_Cost'] = labor_df['Total_Labor_Hours'] * labor_df['Average_Hourly_Rate']
+labor_df.to_csv('store_labor_data.csv', index=False)
+
+print("Datasets successfully generated: menu_cogs_data.csv, transaction_sales_data.csv, store_labor_data.csv")
